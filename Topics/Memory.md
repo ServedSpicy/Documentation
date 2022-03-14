@@ -14,8 +14,8 @@ Format: `YAML`
 <Recipe Name>:
     Used : <Is Used>
     Spices:
-        - <Spice A> : <Amount>
-        - <Spice B> : <Amount>
+        <Spice A> : <Amount>
+        <Spice B> : <Amount>
 ```
 
 ##### Example
@@ -24,9 +24,9 @@ Format: `YAML`
 Cicken Mix:
     Used : true
     Spices:
-        - Oregano : 4
-        - Garlic : 8
-        - Red Pepper : 6
+        Oregano : 4
+        Garlic : 8
+        Red Pepper : 6
 ```
 
 <br>
