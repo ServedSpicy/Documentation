@@ -21,7 +21,7 @@ Format: `YAML`
 ##### Example
 
 ```yaml
-Cicken Mix:
+Chicken Mix:
     Used : true
     Spices:
         Oregano : 4
