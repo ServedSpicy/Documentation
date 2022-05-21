@@ -1,26 +1,19 @@
 
+[![Badge License]][License]
+
 <div align = center>
 
 # Ｓｅｒｖｅｄ Ｓｐｉｃｙ
 
-***🔥 A FOSS Spice Mixing Machine 🔥***
-
+***🔥 FOSS Spice Mixing Machines 🔥***
 
 <br>
 
 ---
 
-[![Badge License]][License]
+[![Badge Install]][Install]   [![Badge Concept]][Concept] 
 
 ---
-
-<b>
-
-┏━━━━━━┓  ┏━━━━━━┓ <br>
-┃    [Install]    ┃  ┃  [Concept]  ┃ <br>
-┗━━━━━━┛  ┗━━━━━━┛ <br>
-
-</b>
 
 </div>
 
@@ -41,7 +34,8 @@
 <!--////////////////////////////////| Badges |///////////////////////////////-->
 
 [Badge License]: https://img.shields.io/badge/License-AGPL_v3-blue.svg?style=for-the-badge
-
+[Badge Install]: https://img.shields.io/badge/Install-red?style=for-the-badge
+[Badge Concept]: https://img.shields.io/badge/Design-31afed?style=for-the-badge
 
 <!--////////////////////////////////| Local |////////////////////////////////-->
 

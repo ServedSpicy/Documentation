@@ -1,46 +1,67 @@
 
 # EEPROM
 
-Recipes with spices resolved to their container number.
+*Persistent Data On The Machine.*
 
-Available Memory on **Arduino UNO** : `1024B`
+<br>
 
-## Recipe Resolving
+## Size
 
-Using the container configuration tuples `< Position | Spice >`, <br>
-one can resolve a recipes ingredient lists keys from being names <br>
-to the more compact position of the spice container.
+The current setup uses the **Arduino UNO**. <br>
+⤷  `1024 Bytes`
 
-This way we also don't have to upload the container configuration itself.
+<br>
+<br>
 
-## Structure
+## What
 
-```
-     Ｂｙｔｅ
-[  Recipe Count ]
+*A list of things that are saved on the EEPROM.*
 
-        Ｂｙｔｅ      Ｂｙｔｅ[]          Ｂｙｔｅ          Ｂｙｔｅ     Ｂｙｔｅ
-[ ( { Name Length } { Chars } ) ( { Spices Count } { [ Position ] [ Amount ] } { ... } { ... } ) ]
-[ ... ]
-[ ... ]
-```
+| Name | From | Size | Description |
+|:----:|:----:|:----:|:------------|
+| ***Recipes***      | `0`    | `1000` | Resolved recipe data |
+| ***EERPOM Guard*** | `1023` | `1`    | Remedies looping when EEPROM is corrupted
 
-## Storage Calculation
+<br>
+<br>
 
-*In Bytes*
+## Data
 
-```
-+ 1                                # Recipe Count
+### Recipes
 
-for recipe in recipes:
+*Resolved recipe data with <kbd>Recipe Name</kbd> ,* <br>
+<kbd>Container Position</kbd> *&* <kbd>Spice Amount</kbd>
 
-    + 1                            # Name Length
-    + X  Recipe -> Name -> Length  # ASCII Characters
+<br>
+<br>
 
-    + 1                            # Spices Count
+<div align = center>
 
-    for spice in spices:
+![Recipe Data]
 
-        + 1                        # Spice Position
-        + 1                        # Spice Amount
-```
+</div>
+
+<br>
+<br>
+
+#### Sizes
+
+| Component | Bytes | Description |
+|:---------:|:-----:|:------------|
+| ***Recipe Count*** | `1` | The count of recipes following
+| ***Name Length***  | `1` | Char count of name, not null terminated
+| ***Spice Count**   | `1` | Count of position - amount pairs
+| ***Position***     | `1` | Position of the spices container
+| ***Amount***       | `1` | Relative amount of spice to be mixed
+
+
+
+
+
+
+
+
+
+<!--   🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶   -->
+
+[Recipe Data]: ../Resources/Firmware/Recipe%20Data.svg
