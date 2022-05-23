@@ -1,19 +1,37 @@
 ## Storage Calculation
 
-*In Bytes*
+*Calculating the amount of bytes required to store a list of recipes.*
 
-```
-+ 1                                # Recipe Count
+<br>
 
-for recipe in recipes:
+```js
+//  Recipe Count
 
-    + 1                            # Name Length
-    + X  Recipe -> Name -> Length  # ASCII Characters
+yield 1
 
-    + 1                            # Spices Count
 
-    for spice in spices:
+for recipe of recipes:
 
-        + 1                        # Spice Position
-        + 1                        # Spice Amount
+    //  Name Length
+
+    yield 1
+
+    //  ASCII Characters
+
+    yield recipe.name.length;
+
+    //  Spice Count
+
+    yield 1
+
+
+    for spice of spices:
+
+        //  Container Position
+
+        yield 1
+
+        //  Spice Amount
+
+        yield 1
 ```
