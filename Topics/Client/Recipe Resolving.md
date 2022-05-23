@@ -1,7 +1,12 @@
-## Recipe Resolving
 
-Using the container configuration tuples `< Position | Spice >`, <br>
-one can resolve a recipes ingredient lists keys from being names <br>
-to the more compact position of the spice container.
+# Recipe Resolving
 
-This way we also don't have to upload the container configuration itself.
+To reduce the storage on the controller required by recipes, <br>
+one can resolve them to only the `Container Position` and <br>
+the `Spice Amount`.
+
+## Container Position
+
+The position can be determined by taking the spice's <br>
+name and searching for the corresponding container <br>
+in the spices configuration.

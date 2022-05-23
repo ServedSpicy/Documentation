@@ -72,4 +72,4 @@ endlessly crash and start again.
 <!--   🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶   -->
 
 [Arduino UNO]: https://www.arduino.cc/en/Guide/ArduinoUno
-[Recipe Data]: ../Resources/Firmware/Recipe%20Data.svg
+[Recipe Data]: ../../Resources/Firmware/Recipe%20Data.svg
