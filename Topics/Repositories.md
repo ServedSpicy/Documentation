@@ -4,11 +4,13 @@
 *All **ServedSpicy** Repositories & Their Use.*
 
 <br>
+<br>
 
 [![Button ServedSpicy.github.io]][ServedSpicy.github.io]
 
     *Empty GitHub Pages Site | Redirects to the **[Organization]**.*
 
+<br>
 <br>
 
 [![Button Documentation]][Documentation]
@@ -16,17 +18,20 @@
     *Documentation for **Usage**, **Design** & **General Information**.*
 
 <br>
+<br>
 
 [![Button Interface]][Interface]
 
     ***UI*** *for the **Configurator**, made with **HTML**, **CSS**, **JS** & **SVG**.*
 
 <br>
+<br>
 
 [![Button Hardware]][Hardware]
 
     ***PCB*** *+ **3D Parts** of the **Machine**.*
 
+<br>
 <br>
 
 
@@ -35,11 +40,13 @@
     ***Controller*** *program of the **Machine**.*
 
 <br>
+<br>
 
 [![Button Install]][Install]
 
     *Installer **Script** for the Configurator.*
 
+<br>
 <br>
 
 [![Button .github]][.github]
@@ -47,17 +54,20 @@
     **[Organization]** frontpage with overview.*
 
 <br>
+<br>
 
 [![Button Client]][Client]
 
     ***Configurator*** *Deno Source Code.*
 
 <br>
+<br>
 
 [![Button Serial]][Serial]
 
     *Serial Library Deno **Bindings**.*
 
+<br>
 <br>
 
 [![Button Bundle]][Bundle]
@@ -73,16 +83,16 @@
 
 <!--   🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶   -->
 
-[ServedSpicy.github.io]: https://github.com/ServedSpicy/ServedSpicy.github.io
-[Documentation]: https://github.com/ServedSpicy/Documentation
-[Interface]: https://github.com/ServedSpicy/Interface
-[Firmware]: https://github.com/ServedSpicy/Firmware
-[Hardware]: https://github.com/ServedSpicy/Hardware
-[Install]: https://github.com/ServedSpicy/Install
-[.github]: https://github.com/ServedSpicy/.github
-[Bundle]: https://github.com/ServedSpicy/Bundle
-[Serial]: https://github.com/ServedSpicy/Serial
-[Client]: https://github.com/ServedSpicy/Client
+[ServedSpicy.github.io]: https://github.com/ServedSpicy/ServedSpicy.github.io   ' ServedSpicy / ServedSpicy.github.io '
+[Documentation]: https://github.com/ServedSpicy/Documentation                   ' ServedSpicy / Documentation '
+[Interface]: https://github.com/ServedSpicy/Interface                           ' ServedSpicy / Interface '
+[Firmware]: https://github.com/ServedSpicy/Firmware                             ' ServedSpicy / Firmware '
+[Hardware]: https://github.com/ServedSpicy/Hardware                             ' ServedSpicy / Hardware '
+[Install]: https://github.com/ServedSpicy/Install                               ' ServedSpicy / Install '
+[.github]: https://github.com/ServedSpicy/.github                               ' ServedSpicy / .github '
+[Bundle]: https://github.com/ServedSpicy/Bundle                                 ' ServedSpicy / Bundle '
+[Serial]: https://github.com/ServedSpicy/Serial                                 ' ServedSpicy / Serial '
+[Client]: https://github.com/ServedSpicy/Client                                 ' ServedSpicy / Client '
 
 [Organization]: https://github.com/ServedSpicy
 
