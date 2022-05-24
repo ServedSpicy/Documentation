@@ -27,6 +27,8 @@
 
 # Design
 
+[![Button Concept]][Concept]
+
 ## Client
 
 [![Button Calculating Storage]][Calculating Storage]
@@ -49,6 +51,7 @@
 [Config Parsing]: Topics/Client/Config%20Parsing.md
 [Repositories]: Topics/Repositories.md 'Overview of all ServeSpicy repositories.'
 [Structure]: Topics/Structure.md 'Structure of ServeSpicy repositories.'
+[Concept]: Topics/Concept.md
 [EEPROM]: Topics/Firmware/EEPROM.md
 
 
@@ -62,4 +65,5 @@
 [Button Config Parsing]: https://img.shields.io/badge/Config_Parsing-yellow?style=for-the-badge
 [Button Repositories]: https://img.shields.io/badge/Repositories-yellow?style=for-the-badge
 [Button Structure]: https://img.shields.io/badge/Structure-yellow?style=for-the-badge
+[Button Concept]: https://img.shields.io/badge/Concept-yellow?style=for-the-badge
 [Button EEPROM]: https://img.shields.io/badge/EEPROM-yellow?style=for-the-badge
