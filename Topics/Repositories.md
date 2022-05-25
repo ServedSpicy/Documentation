@@ -20,6 +20,13 @@
 <br>
 <br>
 
+[![Button Showcase]][Showcase]
+
+    *Presentation of the **ServedSpicy** project.*
+
+<br>
+<br>
+
 [![Button Interface]][Interface]
 
     ***UI*** *for the **Configurator**, made with **HTML**, **CSS**, **JS** & **SVG**.*
@@ -88,6 +95,7 @@
 [Interface]: https://github.com/ServedSpicy/Interface                           ' ServedSpicy / Interface '
 [Firmware]: https://github.com/ServedSpicy/Firmware                             ' ServedSpicy / Firmware '
 [Hardware]: https://github.com/ServedSpicy/Hardware                             ' ServedSpicy / Hardware '
+[Showcase]: https://github.com/ServedSpicy/Showcase                             ' ServedSpicy / Showcase'
 [Install]: https://github.com/ServedSpicy/Install                               ' ServedSpicy / Install '
 [.github]: https://github.com/ServedSpicy/.github                               ' ServedSpicy / .github '
 [Bundle]: https://github.com/ServedSpicy/Bundle                                 ' ServedSpicy / Bundle '
@@ -103,6 +111,7 @@
 [Button Documentation]: https://img.shields.io/badge/Documentation-31afed?style=for-the-badge&logoColor=white&logo=BookStack
 [Button Interface]: https://img.shields.io/badge/Interface-d5ad16?style=for-the-badge&logoColor=white&logo=tmux
 [Button Firmware]: https://img.shields.io/badge/Firmware-db226e?style=for-the-badge&logoColor=white&logo=StackShare
+[Button Showcase]: https://img.shields.io/badge/Showcase-d16fab?style=for-the-badge&logoColor=white&logo=Aparat
 [Button Hardware]: https://img.shields.io/badge/Hardware-408320?style=for-the-badge&logoColor=white&logo=CurseForge
 [Button Install]: https://img.shields.io/badge/Install-37a779?style=for-the-badge&logoColor=white&logo=DocuSign
 [Button .github]: https://img.shields.io/badge/.github-lightgray?style=for-the-badge&logoColor=white&logo=ElasticStack
