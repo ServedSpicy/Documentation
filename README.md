@@ -3,15 +3,9 @@
 
 # Ｓｅｒｖｅｄ Ｓｐｉｃｙ
 
-***🔥 FOSS Spice Mixing Machines 🔥***
+*Documentation & Design Notes*
 
 <br>
-
----
-
-[![Badge Install]][Install]
-
----
 
 </div>
 
