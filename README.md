@@ -1,6 +1,4 @@
 
-[![Badge License]][License]
-
 <div align = center>
 
 # Ｓｅｒｖｅｄ Ｓｐｉｃｙ
@@ -43,8 +41,6 @@
 
 <!--   🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶   -->
 
-[License]: LICENSE
-
 [Install]: Topics/Install.md
 
 [Calculating Storage]: Topics/Client/Calculating%20Storage.md
@@ -59,7 +55,6 @@
 
 <!--   🌶  🌶  🌶  🌶  🌶  🌶  🌶    Buttons   🌶  🌶  🌶  🌶  🌶  🌶  🌶   -->
 
-[Badge License]: https://img.shields.io/badge/License-AGPL_v3-blue.svg?style=for-the-badge
 [Badge Install]: https://img.shields.io/badge/Install-red?style=for-the-badge
 
 [Button Calculating Storage]: https://img.shields.io/badge/Calculating_Storage-yellow?style=for-the-badge
