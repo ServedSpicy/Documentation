@@ -33,7 +33,8 @@
 
 ## Firmware
 
-[![Button EEPROM]][EEPROM]
+[![Button EEPROM]][EEPROM]  
+[![Button Mixing Algorithm]][Mixing Algorithm]
 
 </div>
 
@@ -46,6 +47,7 @@
 [Install]: Topics/Install.md
 
 [Calculating Storage]: Topics/Client/Calculating%20Storage.md
+[Mixing Algorithm]: Topics/Firmware/Mixing%20Algorithm.md
 [Recipe Resolving]: Topics/Client/Recipe%20Resolving.md
 [Config Parsing]: Topics/Client/Config%20Parsing.md
 [Client Design]: Topics/Client/Design.md
@@ -60,6 +62,7 @@
 [Badge Install]: https://img.shields.io/badge/Install-red?style=for-the-badge
 
 [Button Calculating Storage]: https://img.shields.io/badge/Calculating_Storage-yellow?style=for-the-badge
+[Button Mixing Algorithm]: https://img.shields.io/badge/Mixing_Algorithm-yellow?style=for-the-badge
 [Button Recipe Resolving]: https://img.shields.io/badge/Recipe_Resolving-yellow?style=for-the-badge
 [Button Config Parsing]: https://img.shields.io/badge/Config_Parsing-yellow?style=for-the-badge
 [Button Client Design]: https://img.shields.io/badge/Design-yellow?style=for-the-badge
