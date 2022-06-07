@@ -4,12 +4,13 @@
 The **Machines Position** is defined as the index <br>
 of the current container and represented by `x`.
 
----
+<br>
+<br>
 
 ## Steps
 
 1. Calculate the distance from `x` to the last element<br>
-   when going `clockwise` / `counter-clockwise` .
+   when going `clockwise` / `anti-clockwise` .
 
 
 2. Go along the shorter route.
@@ -19,26 +20,42 @@ of the current container and represented by `x`.
 
 3. Repeat until done.
 
+<br>
+
 ---
+
+<br>
 
 ## Calculations
 
 ### Delta
 
-Difference to be traversed to the next desired container.
+*Distance to the next container.*
 
 `Δ = Container Index - Position`
 
+<br>
+
 ### Distance
 
-Distance to be traversed to reach all containers.
+*Total distance to traverse to reach all containers.*
 
 `n = Number Of Containers`
 
-##### Counter-Clockwise / Right
+<br>
 
-`Distance = |Δ|` to the last container.
+##### ⭯  /  Right
 
-##### Clockwise / Left
+*Distance to the last container.*
 
-`Distance = |n - Δ|` to the first container.
+`Distance = |Δ|`
+
+<br>
+
+##### ⭮  /  Left
+
+*Distance to the first container.*
+
+`Distance = |n - Δ|`
+
+<br>

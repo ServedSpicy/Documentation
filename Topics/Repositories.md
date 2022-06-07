@@ -58,7 +58,7 @@
 
 [![Button .github]][.github]
 
-    **[Organization]** frontpage with overview.*
+    **[Organization]** *frontpage with overview.*
 
 <br>
 <br>
@@ -82,7 +82,13 @@
     *Bundler combines repositories to **Configurator**.*
 
 <br>
+<br>
 
+[![Button Support]][Support]
+
+    *Support pages, Q&A and guides.*
+
+<br>
 
 
 
@@ -96,6 +102,7 @@
 [Firmware]: https://github.com/ServedSpicy/Firmware                             ' ServedSpicy / Firmware '
 [Hardware]: https://github.com/ServedSpicy/Hardware                             ' ServedSpicy / Hardware '
 [Showcase]: https://github.com/ServedSpicy/Showcase                             ' ServedSpicy / Showcase'
+[Support]: https://github.com/ServedSpicy/Support                               ' ServedSpicy / Support'
 [Install]: https://github.com/ServedSpicy/Install                               ' ServedSpicy / Install '
 [.github]: https://github.com/ServedSpicy/.github                               ' ServedSpicy / .github '
 [Bundle]: https://github.com/ServedSpicy/Bundle                                 ' ServedSpicy / Bundle '
@@ -113,6 +120,7 @@
 [Button Firmware]: https://img.shields.io/badge/Firmware-db226e?style=for-the-badge&logoColor=white&logo=StackShare
 [Button Showcase]: https://img.shields.io/badge/Showcase-d16fab?style=for-the-badge&logoColor=white&logo=Aparat
 [Button Hardware]: https://img.shields.io/badge/Hardware-408320?style=for-the-badge&logoColor=white&logo=CurseForge
+[Button Support]: https://img.shields.io/badge/Support-02458D?style=for-the-badge&logoColor=white&logo=AddThis
 [Button Install]: https://img.shields.io/badge/Install-37a779?style=for-the-badge&logoColor=white&logo=DocuSign
 [Button .github]: https://img.shields.io/badge/.github-lightgray?style=for-the-badge&logoColor=white&logo=ElasticStack
 [Button Client]: https://img.shields.io/badge/Client-ed8031?style=for-the-badge&logoColor=white&logo=Blueprint

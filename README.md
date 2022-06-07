@@ -7,12 +7,11 @@
 
 <br>
 
-</div>
 
 <br>
 <br>
 
-[![Button Repositories]][Repositories]
+[![Button Repositories]][Repositories]  
 [![Button Structure]][Structure]
 
 <br>
@@ -21,16 +20,25 @@
 
 [![Button Concept]][Concept]
 
+<br>
+
 ## Client
 
-[![Button Client Design]][Client Design]
-[![Button Calculating Storage]][Calculating Storage]
-[![Button Recipe Resolving]][Recipe Resolving]
+[![Button Client Design]][Client Design]  
+[![Button Calculating Storage]][Calculating Storage]  
+[![Button Recipe Resolving]][Recipe Resolving]  
 [![Button Config Parsing]][Config Parsing]
+
+<br>
 
 ## Firmware
 
 [![Button EEPROM]][EEPROM]
+
+</div>
+
+<br>
+
 
 
 <!--   🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶   -->
