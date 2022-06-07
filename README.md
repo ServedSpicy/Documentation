@@ -29,6 +29,8 @@
 [![Button Recipe Resolving]][Recipe Resolving]  
 [![Button Config Parsing]][Config Parsing]
 
+[![Button Configurations]][Configurations]
+
 <br>
 
 ## Firmware
@@ -50,6 +52,7 @@
 [Mixing Algorithm]: Topics/Firmware/Mixing%20Algorithm.md
 [Recipe Resolving]: Topics/Client/Recipe%20Resolving.md
 [Config Parsing]: Topics/Client/Config%20Parsing.md
+[Configurations]: Topics/Client/Configurations.md
 [Client Design]: Topics/Client/Design.md
 [Repositories]: Topics/Repositories.md 'Overview of all ServeSpicy repositories.'
 [Structure]: Topics/Structure.md 'Structure of ServeSpicy repositories.'
@@ -65,6 +68,7 @@
 [Button Mixing Algorithm]: https://img.shields.io/badge/Mixing_Algorithm-yellow?style=for-the-badge
 [Button Recipe Resolving]: https://img.shields.io/badge/Recipe_Resolving-yellow?style=for-the-badge
 [Button Config Parsing]: https://img.shields.io/badge/Config_Parsing-yellow?style=for-the-badge
+[Button Configurations]: https://img.shields.io/badge/Configurations-yellow?style=for-the-badge
 [Button Client Design]: https://img.shields.io/badge/Design-yellow?style=for-the-badge
 [Button Repositories]: https://img.shields.io/badge/Repositories-yellow?style=for-the-badge
 [Button Structure]: https://img.shields.io/badge/Structure-yellow?style=for-the-badge
