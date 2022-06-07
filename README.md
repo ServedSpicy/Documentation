@@ -12,7 +12,8 @@
 <br>
 
 [![Button Repositories]][Repositories]  
-[![Button Structure]][Structure]
+[![Button Structure]][Structure]  
+[![Button Deployment]][Deployment]
 
 <br>
 
@@ -57,6 +58,7 @@
 [Repositories]: Topics/Repositories.md 'Overview of all ServeSpicy repositories.'
 [Structure]: Topics/Structure.md 'Structure of ServeSpicy repositories.'
 [Concept]: Topics/Concept.md
+[Deployment]: Topics/Deployment.md
 [EEPROM]: Topics/Firmware/EEPROM.md
 
 
@@ -71,6 +73,7 @@
 [Button Configurations]: https://img.shields.io/badge/Configurations-yellow?style=for-the-badge
 [Button Client Design]: https://img.shields.io/badge/Design-yellow?style=for-the-badge
 [Button Repositories]: https://img.shields.io/badge/Repositories-yellow?style=for-the-badge
+[Button Deployment]: https://img.shields.io/badge/Deployment-yellow?style=for-the-badge
 [Button Structure]: https://img.shields.io/badge/Structure-yellow?style=for-the-badge
 [Button Concept]: https://img.shields.io/badge/Concept-yellow?style=for-the-badge
 [Button EEPROM]: https://img.shields.io/badge/EEPROM-yellow?style=for-the-badge
