@@ -4,10 +4,6 @@
 <br>
 <br>
 
-## Strategy
-
-<br>
-
 <div align = center>
 
 ![Strategy]
@@ -49,10 +45,6 @@ different repositories into one archive.
 
 <br>
 <br>
-
-
-
-
 
 
 <!--   🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶   -->
